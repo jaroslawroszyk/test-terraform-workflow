@@ -1,3 +1,3 @@
 def hello_world():
-    print('Witaj, WSB!')
+    print('Witaj, świecie!')
 hello_world()
